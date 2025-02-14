@@ -8,10 +8,6 @@
 </head>
 <body>
     <h1>Ola Java Web</h1>
-    <%
-        for(int cont=0;cont<10;cont++){
-            out.print("<br />" + cont)
-        }
-    %>
+   
 </body>
 </html>
